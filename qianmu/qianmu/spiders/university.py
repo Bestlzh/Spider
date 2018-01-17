@@ -8,9 +8,15 @@ def filter(html):
 
 class UniversitySpider(scrapy.Spider):
     name = 'university'
+<<<<<<< HEAD
     allowed_domains = ['140.143.192.76']
 
     start_urls = ['http://140.143.192.76:8002/2018USNEWS%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D']
+=======
+    allowed_domains = ['qianmu.iguye.com']
+
+    start_urls = ['http://qianmu.iguye.com/2018USNEWS%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D']
+>>>>>>> defaf6a73cc03eeb17362791485a9c754889df31
     def __init__(self,max_num=0):
         super(UniversitySpider, self).__init__()
         self.logger.info('max crawl pages set is %s' % max_num)
@@ -23,7 +29,11 @@ class UniversitySpider(scrapy.Spider):
             if self.max_num and self.max_num <= i:
                 break
             if not link.startswith('http://'):
+<<<<<<< HEAD
                 link = 'http://140.143.192.76:8002/%s'% link
+=======
+                link = 'http://qianmu.iguye.com/%s'% link
+>>>>>>> defaf6a73cc03eeb17362791485a9c754889df31
             request = scrapy.Request(link,callback =self.parse_university)
             request.meta['rank'] = i +1
             yield request
@@ -46,6 +56,10 @@ class UniversitySpider(scrapy.Spider):
         yield item
         self.logger.info('item %s scraped' % item['name'])
         info ={item['name']:item}
+<<<<<<< HEAD
         print(info)
 
 
+=======
+        print(info)
+>>>>>>> defaf6a73cc03eeb17362791485a9c754889df31
