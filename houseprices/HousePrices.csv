@@ -1,0 +1,278 @@
+out_centre($/per Square Feet),in_centre($/per Square Feet),city_name
+ 716.68," 1,526.55",Beijing
+ 41.86, 67.89,Cleveland
+ 55.71, 55.26,Detroit
+ 52.68, 90.05,Memphis
+ 93.46, 202.89,Ho Chi Minh City
+ 63.69, 134.53,Kiev
+ 204.62, 317.55,Split
+ 78.57, 93.00,Greenville
+ 61.71, 91.39,Buffalo
+ 64.85, 136.28,Pittsburgh
+ 53.61, 91.83,Mobile
+ 62.18, 140.35,Grand Rapids
+ 63.81, 112.77,Little Rock
+ 80.50, 134.00,Fort Worth
+ 59.62, 104.68,Tulsa
+ 88.17, 115.17,Huntsville
+ 91.43, 126.67,San Antonio
+ 61.64, 136.99,Kansas City
+ 69.75, 122.95,Jacksonville
+ 68.29, 151.26,Cincinnati
+ 94.61, 142.36,Saint Louis
+ 76.68, 97.45,Wichita
+ 99.78, 110.12,Oklahoma City
+ 117.42, 145.73,Colorado Springs
+ 67.26, 56.63,Pretoria
+ 93.77, 160.51,Milwaukee
+ 78.31, 132.58,Lexington
+ 107.69, 153.49,Las Vegas
+ 66.69, 115.16,Indianapolis
+ 103.02, 187.41,Houston
+ 71.60, 171.04,Columbus
+ 90.65, 126.31,Tucson
+ 111.05, 218.51,Dallas
+ 94.47, 135.82,Louisville
+ 106.32, 147.11,Spokane
+ 75.20, 103.51,Johannesburg
+ 102.54, 261.43,Atlanta
+ 102.25, 174.49,Baltimore
+ 117.55, 180.31,Orlando
+ 119.36, 235.30,Tampa
+ 68.01, 108.72,Riyadh
+ 96.31, 141.11,Albuquerque
+ 137.00, 143.12,Omaha
+ 100.11, 205.41,Richmond
+ 120.58, 182.99,Phoenix
+ 111.03, 214.14,Raleigh
+ 132.42, 241.35,Minneapolis
+ 137.23, 213.37,Madison
+ 87.75, 280.97,Philadelphia
+ 115.27, 242.76,West Palm Beach
+ 124.93, 174.62,Boise
+ 101.52, 220.78,Charlotte
+ 120.11, 262.30,Nashville
+ 86.57, 263.71,New Orleans
+ 90.22, 109.38,Jeddah
+ 165.61, 183.95,Reno
+ 157.12, 252.10,Salt Lake City
+ 167.78, 214.33,Vancouver
+ 181.14, 280.40,Sacramento
+ 163.49, 290.95,Chicago
+ 202.26, 213.96,Everett
+ 175.90, 350.27,Austin
+ 198.51, 267.32,Edmonton
+ 218.13, 362.80,Denver
+ 227.67, 312.56,Calgary
+ 144.78, 327.54,Fort Lauderdale
+ 242.06, 370.04,Dubai
+ 216.88, 385.34,Doha
+ 298.34, 537.02,Seattle
+ 284.27, 361.39,Abu Dhabi
+ 197.28, 372.34,Ottawa
+ 247.93, 386.00,Portland
+ 132.40, 193.40,Limassol
+ 216.48, 263.61,Kelowna
+ 311.18, 478.40,San Diego
+ 232.02, 315.64,Eindhoven
+ 268.28, 560.33,Washington
+ 50.81, 86.88,Guadalajara
+ 226.00, 590.06,Jersey City
+ 207.15, 363.76,Malmo
+ 42.27, 63.36,Vadodara
+ 199.20, 443.12,Miami
+ 417.00, 511.42,Irvine
+ 68.70, 121.48,Monterrey
+ 43.67, 75.54,Bursa
+ 272.44, 374.39,Wellington
+ 221.16, 347.68,Rotterdam
+ 355.02, 482.82,Canberra
+ 349.18, 442.23,Perth
+ 213.03, 358.87,Montreal
+ 100.43, 123.28,Katowice
+ 50.83, 86.55,Hyderabad
+ 74.11, 114.19,Noida
+ 263.41, 388.01,Victoria
+ 53.77, 76.62,Antalya
+ 119.44, 255.71,Cape Town
+ 361.26, 493.28,Brisbane
+ 161.31, 236.38,Malaga
+ 369.09, 489.33,Reykjavik
+ 249.19, 317.36,Antwerp
+ 299.12, 373.09,Brussels
+ 286.87, 419.90,Utrecht
+ 56.06, 96.98,Ankara
+ 38.78, 66.63,Surat
+ 147.96, 251.72,Valencia
+ 458.15, 570.38,Stavanger
+ 57.50, 88.03,Plovdiv
+ 520.63, 616.91,Fremont
+ 101.85, 123.81,Lodz
+ 104.96, 190.85,Gurgaon
+ 72.16, 164.97,Bangalore
+ 50.94, 102.47,Ahmedabad
+ 327.60, 367.45,Mississauga
+ 387.92, 637.59,Frankfurt
+ 69.66, 117.20,Amman
+ 268.20, 493.03,Haifa
+ 61.03, 95.58,Krasnodar
+ 101.79, 143.64,San Jose
+ 61.25, 110.33,Izmir
+ 405.02, 552.59,Bergen
+ 313.96, 436.35,Edinburgh
+ 92.61, 117.20,Brasov
+ 195.29, 344.25,Turin
+ 411.03, 659.70,Copenhagen
+ 81.28, 163.61,Pune
+ 57.60, 97.55,Kochi
+ 403.51, 654.86,Los Angeles
+ 388.66, 657.31,Oakland
+ 331.55, 416.12,Linz
+ 402.25, 569.74,Stuttgart
+ 96.20, 127.60,Osijek
+ 323.44, 573.11,Hamburg
+ 42.43, 74.53,Bhubaneswar
+ 69.38, 102.96,Varna
+ 460.92, 653.47,Honolulu
+ 511.54, 635.17,Melbourne
+ 104.27, 158.88,Klaipeda
+ 112.36, 179.09,Penang
+ 44.55, 131.93,Jaipur
+ 145.96, 196.17,Wroclaw
+ 129.57, 167.61,Kosice
+ 72.34, 102.89,Burgas
+ 327.85, 491.97,Lyon
+ 107.62, 168.23,Thessaloniki
+ 102.21, 148.74,Sofia
+ 255.94, 463.23,Madrid
+ 369.97, 536.75,Berlin
+ 142.25, 175.71,Campinas
+ 80.12, 116.72,Sibiu
+ 868.21," 1,375.10",Zurich
+ 174.20, 268.28,Tallinn
+ 439.93, 690.28,Amsterdam
+ 147.51, 201.97,Poznan
+ 419.90, 602.51,Dublin
+ 56.69, 68.77,Coimbatore
+ 146.54, 210.76,Gdynia
+ 146.99, 235.79,Gdansk
+ 112.44, 132.71,Timisoara
+ 905.45," 1,243.61",Geneva
+ 686.24, 886.85,Luxembourg
+ 386.75, 935.08,Boston
+ 93.13, 138.83,Yekaterinburg
+ 419.27, 680.93,Dusseldorf
+ 366.76, 691.43,Gothenburg
+ 180.83, 160.67,Athens
+ 130.39, 168.26,Rijeka
+ 109.48, 169.56,Bucharest
+ 452.87, 617.56,Toronto
+ 53.32, 103.03,Visakhapatnam
+ 119.54, 196.71,Riga
+ 151.03, 252.61,Porto
+ 441.41, 789.33,Helsinki
+ 59.27, 85.54,Islamabad
+ 112.07, 189.35,Mexico City
+ 41.71, 74.63,Karachi
+ 476.90, 651.53,Auckland
+ 623.25, 975.50,Sydney
+ 146.93, 297.14,Kuala Lumpur
+ 496.37, 653.70,Ramat Gan
+ 78.63, 136.07,Novosibirsk
+ 101.77, 129.91,Kazan
+ 189.65, 287.06,Warsaw
+ 67.32, 107.84,Goa
+ 95.42, 197.48,Navi Mumbai
+ 163.47, 254.42,Zagreb
+ 83.60, 109.60,Oradea
+ 98.13, 105.72,Guayaquil
+ 90.70, 125.47,Craiova
+ 164.07, 254.62,Krakow
+ 75.79, 151.32,Pristina
+ 285.78, 446.01,Bologna
+ 61.36, 125.41,Kolkata
+ 210.11, 261.36,Brno
+ 98.36, 139.14,Iasi
+ 84.79, 125.69,Almaty
+ 218.46, 301.05,Bratislava
+ 115.21, 154.49,Curitiba
+ 241.35, 361.54,Ljubljana
+ 664.60, 946.63,Oslo
+ 757.53," 1,084.34",San Francisco
+ 128.28, 176.79,Cluj-Napoca
+ 639.91," 1,237.13",New York
+ 61.78, 109.12,Santo Domingo
+ 97.61, 212.07,Istanbul
+ 28.83, 49.90,Cairo
+ 130.77, 178.21,Porto Alegre
+ 89.81, 118.94,Astana
+ 51.36, 90.65,Tbilisi
+ 102.14, 143.27,Banja Luka
+ 189.53, 243.47,Buenos Aires
+ 142.44, 205.11,Panama City
+ 102.51, 164.26,Sarajevo
+ 152.80, 238.44,Saint Petersburg
+ 71.62, 118.03,Rostov-na-donu
+ 74.48, 195.82,Chennai
+ 52.70, 83.31,Tunis
+ 496.91, 982.35,Tokyo
+ 92.33, 127.20,Nizhny Novgorod
+ 174.90, 366.97,Lisbon
+ 93.66, 172.20,Tehran
+ 23.21, 49.49,Alexandria
+ 38.06, 72.57,Dnipropetrovsk
+ 341.27, 515.66,Barcelona
+ 59.77, 88.77,Chisinau
+ 412.14, 802.25,Vienna
+ 153.84, 262.65,Budapest
+ 100.25, 185.71,Casablanca
+ 165.14, 294.34,Vilnius
+ 57.46, 101.80,Yerevan
+ 367.70, 511.95,Florence
+ 60.90, 112.39,Dhaka
+ 212.65, 226.43,Santiago
+ 726.09," 1,050.39",Munich
+ 96.26, 141.25,Minsk
+ 106.26, 144.93,Quito
+ 98.63, 134.75,Skopje
+ 115.41, 273.16,Delhi
+ 674.26," 1,090.69",Stockholm
+ 110.26, 159.39,Novi Sad
+ 619.27, 907.90,Vancouver
+ 294.54, 459.80,Prague
+ 73.69, 163.45,Tirana
+ 163.31, 276.26,Brasilia
+ 98.94, 134.80,Lahore
+ 133.96, 215.57,Thane
+ 40.67, 74.09,Kharkiv
+ 124.50, 190.86,Lima
+ 109.48, 237.60,Manila
+ 184.87, 521.03,Beirut
+ 383.82, 870.89,Milan
+ 99.93, 211.00,Jakarta
+ 784.81," 1,113.38",Paris
+ 458.95, 899.21,Taipei
+ 708.13," 1,166.57",Seoul
+ 210.54, 233.70,Montevideo
+ 397.79," 1,135.79",Jerusalem
+ 64.08, 97.44,Odesa
+ 131.83, 183.90,Bogota
+ 58.74, 124.90,Baku
+ 242.48, 535.81,Moscow
+ 143.05, 200.43,Belo Horizonte
+ 45.90, 95.00,Lviv
+ 113.13, 106.13,Medellin
+ 197.62, 298.95,Sao Paulo
+ 395.04, 963.79,Rome
+ 197.67, 397.83,Bangkok
+ 278.49, 545.34,Guangzhou
+ 214.56, 290.47,Rio De Janeiro
+ 134.33, 243.72,Belgrade
+ 886.06," 1,515.33",Tel Aviv-Yafo
+ 896.35," 1,675.41",London
+ 915.32," 1,735.04",Singapore
+ 113.07, 201.46,Algiers
+ 238.85, 630.08,Mumbai
+ 695.81," 1,255.38",Shenzhen
+" 1,621.18"," 2,489.74",Hong Kong
+ 682.07," 1,442.00",Shanghai

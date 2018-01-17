@@ -1,0 +1,283 @@
+in_centre,city_name,out_centre
+" 1,526.55 $",Beijing, 716.68 $
+ 67.89 $,Cleveland, 41.86 $
+ 55.26 $,Detroit, 55.71 $
+ 317.55 $,Split, 204.62 $
+ 521.03 $,Beirut, 184.87 $
+ 870.89 $,Milan, 383.82 $
+ 90.05 $,Memphis, 52.68 $
+ 93.00 $,Greenville, 78.57 $
+ 91.39 $,Buffalo, 61.71 $
+ 136.28 $,Pittsburgh, 64.85 $
+ 91.83 $,Mobile, 53.61 $
+ 140.35 $,Grand Rapids, 62.18 $
+ 112.77 $,Little Rock, 63.81 $
+ 104.68 $,Tulsa, 59.62 $
+ 134.00 $,Fort Worth, 80.50 $
+ 115.17 $,Huntsville, 88.17 $
+ 126.67 $,San Antonio, 91.43 $
+ 136.99 $,Kansas City, 61.64 $
+ 122.95 $,Jacksonville, 69.75 $
+ 110.12 $,Oklahoma City, 99.78 $
+ 151.26 $,Cincinnati, 68.29 $
+ 97.45 $,Wichita, 76.68 $
+ 142.36 $,Saint Louis, 94.61 $
+ 145.73 $,Colorado Springs, 117.42 $
+ 160.51 $,Milwaukee, 93.77 $
+ 56.63 $,Pretoria, 67.26 $
+ 132.58 $,Lexington, 78.31 $
+ 153.49 $,Las Vegas, 107.69 $
+ 115.16 $,Indianapolis, 66.69 $
+ 187.41 $,Houston, 103.02 $
+ 171.04 $,Columbus, 71.60 $
+ 126.31 $,Tucson, 90.65 $
+ 218.51 $,Dallas, 111.05 $
+ 147.11 $,Spokane, 106.32 $
+ 135.82 $,Louisville, 94.47 $
+ 103.51 $,Johannesburg, 75.20 $
+ 261.43 $,Atlanta, 102.54 $
+ 174.49 $,Baltimore, 102.25 $
+ 180.31 $,Orlando, 117.55 $
+ 235.30 $,Tampa, 119.36 $
+ 108.72 $,Riyadh, 68.01 $
+ 141.11 $,Albuquerque, 96.31 $
+ 143.12 $,Omaha, 137.00 $
+ 205.41 $,Richmond, 100.11 $
+ 182.99 $,Phoenix, 120.58 $
+ 241.35 $,Minneapolis, 132.42 $
+ 214.14 $,Raleigh, 111.03 $
+ 213.37 $,Madison, 137.23 $
+ 280.97 $,Philadelphia, 87.75 $
+ 242.76 $,West Palm Beach, 115.27 $
+ 220.78 $,Charlotte, 101.52 $
+ 174.62 $,Boise, 124.93 $
+ 262.30 $,Nashville, 120.11 $
+ 263.71 $,New Orleans, 86.57 $
+ 183.95 $,Reno, 165.61 $
+ 109.38 $,Jeddah, 90.22 $
+ 214.33 $,Vancouver, 167.78 $
+ 252.10 $,Salt Lake City, 157.12 $
+ 280.40 $,Sacramento, 181.14 $
+ 290.95 $,Chicago, 163.49 $
+ 267.32 $,Edmonton, 198.51 $
+ 213.96 $,Everett, 202.26 $
+ 350.27 $,Austin, 175.90 $
+ 362.80 $,Denver, 218.13 $
+ 312.56 $,Calgary, 227.67 $
+ 370.04 $,Dubai, 242.06 $
+ 327.54 $,Fort Lauderdale, 144.78 $
+ 385.34 $,Doha, 216.88 $
+ 537.02 $,Seattle, 298.34 $
+ 361.39 $,Abu Dhabi, 284.27 $
+ 372.34 $,Ottawa, 197.28 $
+ 386.00 $,Portland, 247.93 $
+ 193.40 $,Limassol, 132.40 $
+ 263.61 $,Kelowna, 216.48 $
+ 478.40 $,San Diego, 311.18 $
+ 315.64 $,Eindhoven, 232.02 $
+ 560.33 $,Washington, 268.28 $
+ 86.88 $,Guadalajara, 50.81 $
+ 590.06 $,Jersey City, 226.00 $
+ 363.76 $,Malmo, 207.15 $
+ 63.36 $,Vadodara, 42.27 $
+ 443.12 $,Miami, 199.20 $
+ 511.42 $,Irvine, 417.00 $
+ 121.48 $,Monterrey, 68.70 $
+ 75.54 $,Bursa, 43.67 $
+ 374.39 $,Wellington, 272.44 $
+ 347.68 $,Rotterdam, 221.16 $
+ 482.82 $,Canberra, 355.02 $
+ 442.23 $,Perth, 349.18 $
+ 358.87 $,Montreal, 213.03 $
+ 123.28 $,Katowice, 100.43 $
+ 86.55 $,Hyderabad, 50.83 $
+ 114.19 $,Noida, 74.11 $
+ 388.01 $,Victoria, 263.41 $
+ 76.62 $,Antalya, 53.77 $
+ 255.71 $,Cape Town, 119.44 $
+ 493.28 $,Brisbane, 361.26 $
+ 236.38 $,Malaga, 161.31 $
+ 489.33 $,Reykjavik, 369.09 $
+ 317.36 $,Antwerp, 249.19 $
+ 373.09 $,Brussels, 299.12 $
+ 419.90 $,Utrecht, 286.87 $
+ 96.98 $,Ankara, 56.06 $
+ 66.63 $,Surat, 38.78 $
+ 251.72 $,Valencia, 147.96 $
+ 570.38 $,Stavanger, 458.15 $
+ 88.03 $,Plovdiv, 57.50 $
+ 616.91 $,Fremont, 520.63 $
+ 123.81 $,Lodz, 101.85 $
+ 190.85 $,Gurgaon, 104.96 $
+ 164.97 $,Bangalore, 72.16 $
+ 102.47 $,Ahmedabad, 50.94 $
+ 367.45 $,Mississauga, 327.60 $
+ 637.59 $,Frankfurt, 387.92 $
+ 117.20 $,Amman, 69.66 $
+ 493.03 $,Haifa, 268.20 $
+ 95.58 $,Krasnodar, 61.03 $
+ 143.64 $,San Jose, 101.79 $
+ 110.33 $,Izmir, 61.25 $
+ 552.59 $,Bergen, 405.02 $
+ 436.35 $,Edinburgh, 313.96 $
+ 117.20 $,Brasov, 92.61 $
+ 344.25 $,Turin, 195.29 $
+ 659.70 $,Copenhagen, 411.03 $
+ 97.55 $,Kochi, 57.60 $
+ 654.86 $,Los Angeles, 403.51 $
+ 163.61 $,Pune, 81.28 $
+ 657.31 $,Oakland, 388.66 $
+ 416.12 $,Linz, 331.55 $
+ 127.60 $,Osijek, 96.20 $
+ 569.74 $,Stuttgart, 402.25 $
+ 573.11 $,Hamburg, 323.44 $
+ 74.53 $,Bhubaneswar, 42.43 $
+ 653.47 $,Honolulu, 460.92 $
+ 635.17 $,Melbourne, 511.54 $
+ 102.96 $,Varna, 69.38 $
+ 158.88 $,Klaipeda, 104.27 $
+ 179.09 $,Penang, 112.36 $
+ 196.17 $,Wroclaw, 145.96 $
+ 131.93 $,Jaipur, 44.55 $
+ 167.61 $,Kosice, 129.57 $
+ 102.89 $,Burgas, 72.34 $
+ 491.97 $,Lyon, 327.85 $
+ 168.23 $,Thessaloniki, 107.62 $
+ 148.74 $,Sofia, 102.21 $
+ 463.23 $,Madrid, 255.94 $
+ 536.75 $,Berlin, 369.97 $
+ 175.71 $,Campinas, 142.25 $
+ 116.72 $,Sibiu, 80.12 $
+" 1,375.10 $",Zurich, 868.21 $
+ 690.28 $,Amsterdam, 439.93 $
+ 268.28 $,Tallinn, 174.20 $
+ 201.97 $,Poznan, 147.51 $
+ 602.51 $,Dublin, 419.90 $
+ 210.76 $,Gdynia, 146.54 $
+ 68.77 $,Coimbatore, 56.69 $
+ 235.79 $,Gdansk, 146.99 $
+ 132.71 $,Timisoara, 112.44 $
+" 1,243.61 $",Geneva, 905.45 $
+ 886.85 $,Luxembourg, 686.24 $
+ 935.08 $,Boston, 386.75 $
+ 138.83 $,Yekaterinburg, 93.13 $
+ 680.93 $,Dusseldorf, 419.27 $
+ 691.43 $,Gothenburg, 366.76 $
+ 160.67 $,Athens, 180.83 $
+ 168.26 $,Rijeka, 130.39 $
+ 169.56 $,Bucharest, 109.48 $
+ 617.56 $,Toronto, 452.87 $
+ 103.03 $,Visakhapatnam, 53.32 $
+ 196.71 $,Riga, 119.54 $
+ 252.61 $,Porto, 151.03 $
+ 85.54 $,Islamabad, 59.27 $
+ 789.33 $,Helsinki, 441.41 $
+ 189.35 $,Mexico City, 112.07 $
+ 74.63 $,Karachi, 41.71 $
+ 651.53 $,Auckland, 476.90 $
+ 975.50 $,Sydney, 623.25 $
+ 297.14 $,Kuala Lumpur, 146.93 $
+ 653.70 $,Ramat Gan, 496.37 $
+ 136.07 $,Novosibirsk, 78.63 $
+ 129.91 $,Kazan, 101.77 $
+ 287.06 $,Warsaw, 189.65 $
+ 197.48 $,Navi Mumbai, 95.42 $
+ 107.84 $,Goa, 67.32 $
+ 254.42 $,Zagreb, 163.47 $
+ 109.60 $,Oradea, 83.60 $
+ 105.72 $,Guayaquil, 98.13 $
+ 125.47 $,Craiova, 90.70 $
+ 254.62 $,Krakow, 164.07 $
+ 151.32 $,Pristina, 75.79 $
+ 446.01 $,Bologna, 285.78 $
+ 261.36 $,Brno, 210.11 $
+ 125.41 $,Kolkata, 61.36 $
+ 139.14 $,Iasi, 98.36 $
+ 125.69 $,Almaty, 84.79 $
+ 154.49 $,Curitiba, 115.21 $
+ 301.05 $,Bratislava, 218.46 $
+ 361.54 $,Ljubljana, 241.35 $
+ 946.63 $,Oslo, 664.60 $
+ 176.79 $,Cluj-Napoca, 128.28 $
+" 1,084.34 $",San Francisco, 757.53 $
+" 1,237.13 $",New York, 639.91 $
+ 109.12 $,Santo Domingo, 61.78 $
+ 212.07 $,Istanbul, 97.61 $
+ 49.90 $,Cairo, 28.83 $
+ 178.21 $,Porto Alegre, 130.77 $
+ 118.94 $,Astana, 89.81 $
+ 90.65 $,Tbilisi, 51.36 $
+ 243.47 $,Buenos Aires, 189.53 $
+ 143.27 $,Banja Luka, 102.14 $
+ 205.11 $,Panama City, 142.44 $
+ 164.26 $,Sarajevo, 102.51 $
+ 238.44 $,Saint Petersburg, 152.80 $
+ 118.03 $,Rostov-na-donu, 71.62 $
+ 195.82 $,Chennai, 74.48 $
+ 83.31 $,Tunis, 52.70 $
+ 982.35 $,Tokyo, 496.91 $
+ 127.20 $,Nizhny Novgorod, 92.33 $
+ 366.97 $,Lisbon, 174.90 $
+ 172.20 $,Tehran, 93.66 $
+ 72.57 $,Dnipropetrovsk, 38.06 $
+ 49.49 $,Alexandria, 23.21 $
+ 515.66 $,Barcelona, 341.27 $
+ 88.77 $,Chisinau, 59.77 $
+ 802.25 $,Vienna, 412.14 $
+ 262.65 $,Budapest, 153.84 $
+ 185.71 $,Casablanca, 100.25 $
+ 294.34 $,Vilnius, 165.14 $
+ 101.80 $,Yerevan, 57.46 $
+ 511.95 $,Florence, 367.70 $
+ 112.39 $,Dhaka, 60.90 $
+ 226.43 $,Santiago, 212.65 $
+ 141.25 $,Minsk, 96.26 $
+" 1,050.39 $",Munich, 726.09 $
+ 144.93 $,Quito, 106.26 $
+ 134.75 $,Skopje, 98.63 $
+ 273.16 $,Delhi, 115.41 $
+" 1,090.69 $",Stockholm, 674.26 $
+ 159.39 $,Novi Sad, 110.26 $
+ 907.90 $,Vancouver, 619.27 $
+ 459.80 $,Prague, 294.54 $
+ 163.45 $,Tirana, 73.69 $
+ 276.26 $,Brasilia, 163.31 $
+ 134.80 $,Lahore, 98.94 $
+ 74.09 $,Kharkiv, 40.67 $
+ 215.57 $,Thane, 133.96 $
+ 190.86 $,Lima, 124.50 $
+ 237.60 $,Manila, 109.48 $
+ 134.53 $,Kiev, 63.69 $
+ 202.89 $,Ho Chi Minh City, 93.46 $
+ 211.00 $,Jakarta, 99.93 $
+" 1,113.38 $",Paris, 784.81 $
+ 899.21 $,Taipei, 458.95 $
+ 233.70 $,Montevideo, 210.54 $
+" 1,166.57 $",Seoul, 708.13 $
+" 1,135.79 $",Jerusalem, 397.79 $
+ 183.90 $,Bogota, 131.83 $
+ 97.44 $,Odesa, 64.08 $
+ 124.90 $,Baku, 58.74 $
+ 535.81 $,Moscow, 242.48 $
+ 200.43 $,Belo Horizonte, 143.05 $
+ 95.00 $,Lviv, 45.90 $
+ 106.13 $,Medellin, 113.13 $
+ 298.95 $,Sao Paulo, 197.62 $
+ 963.79 $,Rome, 395.04 $
+ 397.83 $,Bangkok, 197.67 $
+ 545.34 $,Guangzhou, 278.49 $
+ 290.47 $,Rio De Janeiro, 214.56 $
+ 243.72 $,Belgrade, 134.33 $
+" 1,515.33 $",Tel Aviv-Yafo, 886.06 $
+" 1,675.41 $",London, 896.35 $
+" 1,735.04 $",Singapore, 915.32 $
+ 201.46 $,Algiers, 113.07 $
+ 630.08 $,Mumbai, 238.85 $
+" 1,255.38 $",Shenzhen, 695.81 $
+" 2,489.74 $",Hong Kong," 1,621.18 $"
+" 1,442.00 $",Shanghai, 682.07 $
+out_centre,city_name,in_centre
+ 716.68,Beijing," 1,526.55"
+" 1,621.18",Hong Kong," 2,489.74"
+ 682.07,Shanghai," 1,442.00"
+ 695.81,Shenzhen," 1,255.38"
